@@ -5,19 +5,6 @@ body {
     background-color: #fafafa;
 }
 
-::-webkit-scrollbar {
-    width: 15px;
-}
-
-::-webkit-scrollbar-track {
-    background: #ffffff;
-}
-
-::-webkit-scrollbar-thumb {
-    border: 3px solid #ffffff;
-    background: #7a7a7a;
-    border-radius: 6px;
-}
 
         /* HEADER */
 
